@@ -1,0 +1,23 @@
+body{
+    background-color: azure;
+}
+hr{
+    border-style: none ;
+    border-top-style:dotted ;
+    border-width: 05px;
+    border-color: grey;
+    width: 50%;
+}
+h1{
+    font-size: 250%;
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+.contactpara{
+    font-size: 175%;
+}
+.tablelable{
+    font-size: 200%;
+}
